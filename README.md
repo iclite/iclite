@@ -3,9 +3,6 @@
 ![Love](https://img.shields.io/badge/Love-You-black)
 ![ICLite](https://img.shields.io/badge/IC-Lite-green)
 
-![Status](https://github-readme-stats.vercel.app/api?username=ICLite&theme=vue)
-![Language](https://github-readme-stats.vercel.app/api/top-langs/?username=ICLite&layout=compact&theme=vue)
-
 ## I Use
 
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=white)
