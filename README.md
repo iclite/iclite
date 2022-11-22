@@ -23,7 +23,6 @@
 ![NPM](https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=NPM&logoColor=white)
 ![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-EEEEEE?style=flat-square&logo=stack-overflow)
 
-![MM32](https://img.shields.io/badge/-MindMotion-FF9A00?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAaklEQVQ4jc2RUQ7AIAhDwXj/K3eZiYaxNvC39cvUhxawz+UAdgaEMB7OECEXMwpI+UdTQGXhZkbNHXlqzdQDLyh5j/spwDxEEJ8myL2X82EtgIHKG2E41e7ZbNpboMW333lAFjc//7XM7AJddxMZjxPffwAAAABJRU5ErkJggg==&logoColor=000000)
 ![Xiaomi](https://img.shields.io/badge/-Xiaomi-FA6709?style=flat-square&logo=Xiaomi&logoColor=FFFFFF)
 ![Xilinx](https://img.shields.io/badge/-Xilinx-E01F27?style=flat-square&logo=Xilinx)
 ![STMicroelectronics](https://img.shields.io/badge/-STMicroelectronics-03234B?style=flat-square&logo=STMicroelectronics)
